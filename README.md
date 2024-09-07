@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/012ef984-7365-4e5e-8a15-828dfc2c956c)
 
 
+https://kienews.com/news/newsview.php?ncode=1065578986227667
+
 ---
 
 
