@@ -18,4 +18,5 @@ https://kienews.com/news/newsview.php?ncode=1065578986227667
 
 
 ---
-
+진행사항 관련 게시물:
+https://blog-of-tifo.tistory.com/3
