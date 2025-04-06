@@ -88,7 +88,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="15%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="15%"/>
 
-> nginx: 라즈베리파이 -> python으로 이미지 데이터 수신
+> nginx: 라즈베리파이 -> python으로 이미지 데이터 수신  <br>
 > flask: AI 모델에서 판별된 결과를 보여주는 서버
 
 ### 사용된 라이브러리
