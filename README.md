@@ -178,6 +178,9 @@ def predict_image(model, img):
 <p align="center">
  <img src="img/라즈베리파이자동차.png" width="70%">
 </p>
+<p align="center">
+ <img src="img/라즈베리파이자동차2.png" width="70%">
+</p>
 
 > [수소 자동차 키트](https://m.kjsci.com/goods/view?no=8295) 를 이용한 프로토타입 자동차 <br>
 > 배관을 일일히 촬영할 수 없는 단점을 보완한 하드웨어 프로토타입 (김유정, 이현주 공동 제작 및 아이디어) <br>
