@@ -20,7 +20,8 @@
 [4. 시스템 아키텍쳐](#시스템-아키텍쳐) <br>
 [5. 사용 언어 & 툴](#사용-언어--툴) <br>
 [6. AI 모델 구현 로직](#ai-모델-구현-로직) <br>
-[7. 서버](#서버)
+[7. 서버](#서버) <br>
+[8. 하드웨어 프로토타입](#하드웨어-프로토타입)
 
 
 <br>
@@ -74,26 +75,38 @@
 ## 사용 언어 & 툴
 
 ### 프론트엔드
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="10%"/>
+
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="10%"/>
+</p>
 
 > Html: 모니터링 시스템 디스플레이
 
 ### 백엔드
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="10%"/>
+
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="10%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="10%"/>
+</p>
 
 > Python: AI 모델 
 
 ### 서버
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="15%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="15%"/>
+
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="15%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="15%"/>
+</p>
 
 > nginx: 라즈베리파이 -> python으로 이미지 데이터 수신  <br>
 > flask: AI 모델에서 판별된 결과를 보여주는 서버
 
 ### 사용된 라이브러리
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="10%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="10%"/>
+
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="10%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="10%"/>
+</p>
 
 > opencv, tensorflow: 이미지 전처리 및 이미지 판별
 
@@ -156,4 +169,22 @@ def predict_image(model, img):
 
 > flask 서버: 수소취화 여부를 모니터링 가능
 
+<br>
+
 ---
+
+## 하드웨어 프로토타입
+
+<p align="center">
+ <img src="img/라즈베리파이자동차.png" width="70%">
+</p>
+
+> [수소 자동차 키트](https://m.kjsci.com/goods/view?no=8295) 를 이용한 프로토타입 자동차 <br>
+> 배관을 일일히 촬영할 수 없는 단점을 보완한 하드웨어 프로토타입 (김유정, 이현주 공동 제작 및 아이디어) <br>
+> 자동차에 라즈베리파이를 부착 -> 라즈베리로 연결된 카메라 모듈로 이미지 수집 (카메라 모듈에 100배율 가능한 현미경 달음)
+
+<br>
+
+---
+
+
